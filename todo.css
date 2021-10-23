@@ -1,48 +1,16 @@
 
 
-.main { 
-    
-    margin: auto;
-    margin-top: 20px;
-    width: auto;
-    height: 150px;
-    background-color: pink;
+.main 
+{ 
     text-align: center; 
-    border-radius: 50 px; 
-    border-style: white solid;
 }
-    
-    .addtodo{
-      padding-top: 10px;
-      padding-left: 100px;
-    }
-    
-    
-    .lastDiv {
-        padding-top: 10px;
-        padding-left: 10px;
-        padding-bottom: 10px;
-        display: flex;
-    }
-    .counter {
-        padding-top: 10px;
+.counter 
+    {
+        padding-top: 10px; 
         text-align: center;
     }
     
-    #uList{
-        list-style-type: none;
-        display: inline-block; 
-    }
-
-    #ul {
-        list-style-type: none;
-    }
+   
     
-    li 
-    { 
-        font-size: 1.9rem;
-        font-family: 'Times New Roman', Times, serif;
-    }
-    #input1{
-        padding-left: 10px;
-    }
+   
+    
